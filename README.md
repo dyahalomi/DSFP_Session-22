@@ -23,6 +23,7 @@ Dr. Adam Miller [:octocat:](https://github.com/adamamiller)
 ~ Christ Firth
 
 Monday, October 21, 2024
+Location: 1800 Sherman Ave Rm 7-600
 
 * 09:00 AM – 9:30 AM o Welcome!: Introduction of New Instructors and Code of Conduct Conversation; B Scott
 * 09:30 AM – 10:30 AM o Lecture I: Introduction to Visualization in a Scientific Workflow; B Scott
@@ -42,6 +43,7 @@ Monday, October 21, 2024
 ~ Benjamin Franklin
 
 Tuesday, October 22, 2024
+Location TBA
 
 * 9:00 AM - 10:00 AM o  Lecture III: Introduction to Web Based Visualization; A Geller 
 * 10:00 AM – 10:30 AM o BREAK
@@ -60,6 +62,7 @@ Tuesday, October 22, 2024
 ~ Edward R Tufte
 
 Wednesday, October 23, 2024
+Location: 1800 Sherman Ave Rm 7-600 and additional breakout spaces 
 
 * 09:00 AM - 10:00 AM o Hack Pitch
 * 10:00 AM - 10:30 AM o BREAK
@@ -74,6 +77,7 @@ Chicago Architecture Tour - meet at Davis St. Metra Station
 ~ Mike Loukides
 
 Thursday, October 24, 2024
+Location: 1800 Sherman Ave Rm 7-600
 
 * 09:00 AM – 10:00 AM o Lecture V: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis I; T Nichols
 * 10:00 AM – 10:30 AM o BREAK 
@@ -90,6 +94,7 @@ Thursday, October 24, 2024
 ~ ChatGPT
 
 Friday, October 25, 2024
+Location: 1800 Sherman Ave Rm 7-600
 
 * 9:00 AM - 10:00  AM o Lecture VIII: Accelerating Visualization Tasks with LLMs; A Forbes 
 * 10:00 AM - 10:30  AM  o BREAK
