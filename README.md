@@ -4,7 +4,7 @@ The twenty-second session of the LSST Discovery Alliance DSFP was hosted by the 
 
 The guest instructors for S22 were:  
 
-Dr. Aaron Geller, Information Technology and Center for Interdisciplinary Exploration and Research in Astrophysics, Northwestern University 
+Dr. Aaron Geller, Information Technology and Center for Interdisciplinary Exploration and Research in Astrophysics, Northwestern University   
 Dr. Angus Forbes, Nvidia Corporation  
 Dr. Tiffany Nichols, Department of History and Civil and Environmental Engineering, Northeastern University
 
@@ -27,11 +27,12 @@ Location: 1800 Sherman Ave Rm 7-600
 
 * 09:00 AM – 9:30 AM o Welcome!: Introduction of New Instructors and Code of Conduct Conversation; B Scott
 * 09:30 AM – 10:30 AM o Lecture I: Introduction to Visualization in a Scientific Workflow; B Scott
-* 10:30 AM – 11:00 AM o Break
+* 10:30 AM – 11:00 AM o BREAK
 * 11:00 AM - 12:00 PM o Problem I: Data Sketches; B Scott
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:30 PM o Lecture II: Principles of Perception; A Geller
-* 02:30 PM – 04:00 PM o Problem II: Principles of Perception; A Geller
+* 02:30 PM – 03:30 PM o Problem II: Principles of Perception; A Geller
+* 03:30 PM – 04:00 PM o BREAK
 * 04:00 PM – 05:30 PM o Problem III: ML Enabled Visualization; B Scott
 * 06:00 PM – ??:?? PM o Group Dinner
 
@@ -84,7 +85,8 @@ Location: 1800 Sherman Ave Rm 7-600
 * 10:30 AM – 12:00 PM o Problem VI: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis I; T Nichols
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:30 PM o Lecture VI: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis II; T Nichols
-* 02:30 PM – 04:00 PM o Problem VII: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis II; T Nichols
+* 02:30 PM – 03:30 PM o Problem VII: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis II; T Nichols
+* 03:30 PM – 04:00 PM o BREAK
 * 04:00 PM - 05:00 PM o Lecture VII: Slide Design; A Miller
  
 ## Day 5 — GPU Enabled Visualization 
