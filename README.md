@@ -34,7 +34,7 @@ Location: 1800 Sherman Ave Rm 7-600
 * 02:30 PM – 03:30 PM o Problem II: Principles of Perception; A Geller
 * 03:30 PM – 04:00 PM o BREAK
 * 04:00 PM – 05:30 PM o Problem III: ML Enabled Visualization; B Scott
-* 06:00 PM – ??:?? PM o Group Dinner
+* 06:30 PM – ??:?? PM o Group Dinner at 
 
  
 ## Day 2 – Visualization Tools 
