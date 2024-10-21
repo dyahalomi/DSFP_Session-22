@@ -25,7 +25,7 @@ Dr. Adam Miller [:octocat:](https://github.com/adamamiller)
 Monday, October 21, 2024
 Location: 1800 Sherman Ave Rm 7-600
 
-* 09:00 AM – 9:30 AM o Welcome!: Introduction of New Instructors and Code of Conduct Conversation; B Scott
+* 09:00 AM – 9:30 AM o Welcome!: Code of Conduct Conversation; B Scott
 * 09:30 AM – 10:30 AM o Lecture I: Introduction to Visualization in a Scientific Workflow; B Scott
 * 10:30 AM – 11:00 AM o BREAK
 * 11:00 AM - 12:00 PM o Problem I: Data Sketches; B Scott
